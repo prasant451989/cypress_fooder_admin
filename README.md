@@ -1,2 +1,2 @@
 # cypress_fooder_admin
-Cypress Automation Code
+Cypress Automation Code for fooder Admin Page
